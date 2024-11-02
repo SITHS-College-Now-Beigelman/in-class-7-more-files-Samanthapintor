@@ -1,0 +1,12 @@
+Player: John
+Score: 1600
+Advanced - Good Job!
+
+Player: Mark
+Score: 600
+Beginner - Keep Practicing!
+
+Player: James
+Score: 1900
+Master - Good Job!
+
